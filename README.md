@@ -1,2 +1,2 @@
 # python
-a basic code
+a basic code for a new learning
